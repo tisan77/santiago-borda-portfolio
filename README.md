@@ -61,7 +61,6 @@ Impacto: Mejora en la eficiencia de consulta y navegación para el usuario final
 
 Tecnologías: JavaScript, Arquitectura de Datos, Gestión de APIs.
 
-### Video de Presentación: 
 
 **Linkedin**: ([https://www.linkedin.com/in/santiago-borda-573a51395/](https://www.linkedin.com/in/santiago-borda-573a51395/))  
 **CV**: (https://drive.google.com/file/d/1Izuggj7XjskCvgMVToQ2uRmyK29oB7Op/view?usp=sharing)  
