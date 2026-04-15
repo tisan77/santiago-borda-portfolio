@@ -1,7 +1,8 @@
 # ¡Hola! Soy Santiago Borda 👋
 ### Soy estudiante de Ingeniería en Sistemas de la Información, tengo 22 años y soy de Corrientes, Argentina.
 Nro de contacto: +5493794071989  
-Email: santiaborda@gmail.com
+Email: santiaborda@gmail.com  
+Website: ([https://santiago-borda-portfolio.framer.website/](https://santiago-borda-portfolio.framer.website/))
 
 Bienvenido a mi espacio de proyectos técnicos. Aquí encontrarás soluciones enfocadas en infraestructura, ciberseguridad y desarrollo de software.
 
@@ -63,7 +64,7 @@ Tecnologías: JavaScript, Arquitectura de Datos, Gestión de APIs.
 
 
 **Linkedin**: ([https://www.linkedin.com/in/santiago-borda-573a51395/](https://www.linkedin.com/in/santiago-borda-573a51395/))  
-**CV**: (https://drive.google.com/file/d/1Izuggj7XjskCvgMVToQ2uRmyK29oB7Op/view?usp=sharing)  
+**CV**: ([https://drive.google.com/file/d/1Izuggj7XjskCvgMVToQ2uRmyK29oB7Op/view?usp=sharing] (https://drive.google.com/file/d/1Izuggj7XjskCvgMVToQ2uRmyK29oB7Op/view?usp=sharing))  
 
 **Github**: ([https://github.com/tisan77](https://github.com/tisan77))
 
